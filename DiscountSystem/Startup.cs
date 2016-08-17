@@ -10,5 +10,5 @@ namespace DiscountSystem
         {
             ConfigureAuth(app);
         }
-    }
+    }  //
 }
